@@ -1,1 +1,2 @@
 Sample git local repo to remote repo
+now from github git-sample
